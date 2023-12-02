@@ -5,5 +5,5 @@ menu_items = new Array(
 , '8的減法-3,match_set_3.js'
 , '7的減法-4,match_set_4.js'
 , '5/6的減法-5&6,match_set_5.js'
-, '4/3/2/1的加法-7&8&9,match_set_6.js'
+, '4/3/2/1的加法-4&3&2&1,match_set_6.js'
 );
